@@ -1,6 +1,7 @@
 # Mahjong
 A simple version of the Mahjong game, containing one level of tiles.
-Made 100% in java
+Made 100% in java. Created during the 1st year of my studies.
+
 
 The user is requested to select which stage to play. 
 The gameplay is like any other Mahjong game.
